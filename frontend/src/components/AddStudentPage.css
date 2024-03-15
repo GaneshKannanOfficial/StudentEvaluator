@@ -1,0 +1,51 @@
+
+.container-custom {
+    max-width: 60rem; 
+  }
+  
+  .card-custom {
+    width: 100%; 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2), 0 12px 24px rgba(0, 0, 0, 0.2); 
+    border-radius: 0.75rem; 
+  }
+  
+  .card-body-custom {
+    padding: 2.5rem; 
+  }
+  
+  .form-control-custom, .form-select-custom {
+    background-color: #f8f9fa; 
+    border: 1px solid #ced4da;
+    box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.05); 
+  }
+  
+  .button-custom {
+    background-color: #000;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem; 
+  }
+  
+  .label-custom {
+    display: block; 
+    margin-bottom: 0.5rem;
+    background-color: #e9ecef;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    color: #495057; 
+  }
+  
+  .title-custom {
+    color: #212529;
+    margin-bottom: 1.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .container-custom {
+      max-width: 95%;
+    }
+    .card-body-custom {
+      padding: 2rem; 
+    }
+  }
+  
