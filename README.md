@@ -32,7 +32,7 @@ The system offers a seamless user experience through the following steps:
 
 This application is deployed at [(http://mentorevaluationdashboard.ganeshkannan.tech/)]. Visit the live application to see it in action.
 
-### This website is accessible as website in desktop or laptops and Iphones.
+### This website is accessible thorugh desktop , laptops and Iphones.
 
 ## Video Demonstration
 
