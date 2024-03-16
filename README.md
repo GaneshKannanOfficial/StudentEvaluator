@@ -32,6 +32,8 @@ The system offers a seamless user experience through the following steps:
 
 This application is deployed at [(http://mentorevaluationdashboard.ganeshkannan.tech/)]. Visit the live application to see it in action.
 
+### This website is accessible as website in desktop or laptops and Iphones.
+
 ## Video Demonstration
 
 A full video explanation of the project is available at [https://amritavishwavidyapeetham-my.sharepoint.com/:v:/g/personal/cb_en_u4cse21426_cb_students_amrita_edu/ETsH2Yml2T1JljuivmtslE4BIupB_lp7GhX2LgnmWO3bxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8rahLV].
